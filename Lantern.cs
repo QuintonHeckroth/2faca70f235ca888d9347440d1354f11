@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// sup g
+
 public class Lantern : MonoBehaviour {
 	// Use this for initialization
 	GameObject player;
