@@ -10,13 +10,12 @@ public class BoyController : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
 	{
-		horizontalAxis = (int)Input.GetAxis("Horizontal");
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		
+		horizontalAxis = (int)Input.GetAxis("Horizontal");
 	}
 
 	void FixedUpdate ()
